@@ -1,4 +1,4 @@
-# meta-amlogic
+# meta-s905
 
 you can use on your S905 box...
 copy your remote.conf into amremote.
